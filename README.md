@@ -181,9 +181,6 @@ http://127.0.0.1:8000/
 Utsav Patil
 Python Backend Developer
 
-yaml
-Copy code
-
 ---
 
 ## ✅ After this (VERY IMPORTANT)
@@ -196,12 +193,3 @@ Make sure your repository contains:
 - ✔ Clean commit history
 
 ---
-
-### 🔥 NEXT STEPS (tell me one word)
-Type **NEXT** and I will:
-- Prepare **Project PDF content**
-- Prepare **Live demo script**
-- Help you fill **Google Form answers perfectly**
-- Review GitHub repo like an interviewer 👨‍💼👩‍💼
-
-You are **project-ready now** 🚀
